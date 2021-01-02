@@ -1,4 +1,4 @@
-import makeDecartPoint from './points.js';
+import { makeDecartPoint } from './points.js';
 
 const makeSegment = (beginPoint, endPoint) => ({
   beginPoint,

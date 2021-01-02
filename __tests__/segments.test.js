@@ -1,4 +1,4 @@
-import makeDecartPoint from '../src/points.js';
+import { makeDecartPoint } from '../src/points.js';
 import {
   makeSegment,
   getMidpointOfSegment,
